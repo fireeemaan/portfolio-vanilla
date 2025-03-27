@@ -3,6 +3,14 @@ body {
    padding: 0;
 }
 
+::-webkit-scrollbar {
+   display: none;
+}
+
+html {
+   scroll-behavior: smooth;
+}
+
 .logo {
    font-family: "JetBrains Mono", monospace;
    color: #fff;
