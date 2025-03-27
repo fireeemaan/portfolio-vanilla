@@ -1,0 +1,72 @@
+[
+   {
+      "id": 1,
+      "details": {
+         "title": "Fishing Game",
+         "description": "Fishing Game is a simple game where you can catch fish and earn points. The game is built using Python.",
+         "image": "/img/fishing-game.png",
+         "github": "https://github.com/fireeemaan/fishing-game",
+         "techStack": ["Python"]
+      }
+   },
+   {
+      "id": 2,
+      "details": {
+         "title": "Fasilkom Prestasi",
+         "description": "Fasilkom Prestasi is a web application that provides information about achievements in the Faculty of Computer Science, University of Jember. The app is built using C#.",
+         "image": "/img/fasilkom-prestasi.png",
+         "github": "https://github.com/fireeemaan/fasilkom-prestasi",
+         "techStack": ["CS"]
+      }
+   },
+   {
+      "id": 3,
+      "details": {
+         "title": "Uniplan",
+         "description": "Uniplan is a web application that helps UKM/Ormawa plan their academic schedules. The app is built using React.js.",
+         "image": "/img/uniplan.png",
+         "github": "https://github.com/fireeemaan/uniplan-uas",
+         "techStack": ["React", "Tailwind", "PHP"]
+      }
+   },
+   {
+      "id": 4,
+      "details": {
+         "title": "Portfolio Website",
+         "description": "Portfolio Website is a website that showcases my projects and skills. The website is built using Next.js.",
+         "image": "/img/portfolio.png",
+         "github": "https://github.com/fireeemaan/my-portfolio",
+         "techStack": ["NextJS", "Typescript", "Tailwind"]
+      }
+   },
+   {
+      "id": 5,
+      "details": {
+         "title": "Journ App",
+         "description": "An app that allows users to share their stories and experiences. The app is built using Kotlin",
+         "image": "/img/journ-app.png",
+         "github": "https://github.com/fireeemaan/JournApp",
+         "techStack": ["Kotlin"]
+      }
+   },
+   {
+      "id": 6,
+      "details": {
+         "title": "MentalQ",
+         "description": "MentalQ is a Kotlin-built mobile app using AI and NLP to analyze Gen Z's journal entries, detect mental states, and provide insights, with psychologist involvement.",
+         "image": "/img/mentalq.png",
+         "github": "https://github.com/MentalQ-App",
+         "techStack": ["Kotlin"]
+      }
+   },
+   {
+      "id": 7,
+      "details": {
+         "title": "Asclepius",
+         "description": "An app that allows user to identify skin cancer using AI. The app is built using Kotlin.",
+         "image": "/img/asclepius.png",
+         "github": "https://github.com/fireeemaan/asclepius-dicoding",
+         "techStack": ["Kotlin"]
+      }
+   }
+]
